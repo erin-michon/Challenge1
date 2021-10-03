@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Header-Navigation Styling*/
+/* header-navigation styling*/
 
 header {
     padding: 20px;
@@ -52,7 +52,7 @@ header p {
     font-size: 16px;
 }
 
-/* Hero Styling*/
+/* hero styling*/
 
 .hero {
     height: 800px;
@@ -63,7 +63,7 @@ header p {
     background-position: center;
 }
 
-/* Content Styling*/
+/* content styling*/
 
 .float-left {
     float: left;
@@ -99,7 +99,7 @@ header p {
     font-size: 36px;
 }
 
-/* Benefits Styling*/
+/* benefits styling*/
 
 .benefits {
     margin-right: 20px;
@@ -128,7 +128,7 @@ header p {
     max-width: 150px;
 }
 
-/* Footer Styling */
+/* footer styling */
 
 footer {
     padding: 30px;
