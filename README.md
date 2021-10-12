@@ -1,6 +1,6 @@
 # MSU Bootcamp Challenge 1: Horiseon
 
-**This is a README for the refaction of a Horiseon's website.  The aim of the refaction was to ensure that Horiseon had a "codebase that followed accessibility standards" so their website is "optimized for search engines."  I utilized my developing skill set in HTML and CSS to make the folling changes to the original code:**
+**This is a README for the refaction of a Horiseon's website.  The aim of the refaction was to ensure that Horiseon had a "codebase that followed accessibility standards" so their website is "optimized for search engines."  I utilized my developing skill set in HTML and CSS to make the following changes to the original code:**
 
 * A broken link in the header was repaired to allow for quick navigation
 * ALT tags were added to each image to help with the accessibility and screen readers
